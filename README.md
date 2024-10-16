@@ -13,7 +13,7 @@
 
 ## Contact Information
 
-- **Email**: your.email@example.com
+- **Email**: jbennette23@gmail.com
 - **LinkedIn**: www.linkedin.com/in/john-bennette-587b3710b)
 
 Feel free to reach out if you have any questions or opportunities!

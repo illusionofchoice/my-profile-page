@@ -1,6 +1,10 @@
 # My Professional Profile Page
 
-This repository contains the HTML file for my professional profile page. It's a showcase of my experience, education, and skills, designed for potential employers.
+<div class="section">
+    <h2>About Me</h2>
+    <p>John Bennette is a skilled IT professional with experience in support, process improvement, and team management, holding a Bachelor's in Business and multiple CompTIA certifications. Passionate about leveraging technology to solve problems and enhance processes.</p>
+</div>
+
 
 ## How to View
 
